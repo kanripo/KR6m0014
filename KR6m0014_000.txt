@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 廣百論本
+#+DATE: 2015-08-30 20:53:17.057409
+#+PROPERTY: JUAN 0
